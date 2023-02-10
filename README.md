@@ -9,12 +9,27 @@ If you spend a lot of time and forse every time before watching a film to find a
 1. You install the extension.
 2. Go to website https://hd.kinopoisk.ru/
 3. In the upper right corner you will see an extension icon.
+
+
+
+![extension](https://raw.githubusercontent.com/VSU-CS-MCS/recommendations-service/docs/readme_howuse2.png)
+
+
+
+
 4. Click on it and take a small test.
+
+
+
+![test](https://raw.githubusercontent.com/VSU-CS-MCS/recommendations-service/docs/redme_howuse3.png)
+
+
+
 5. After that, you will receive individual movie recommendations.
 6. Please rate the recommendations.
-// картинки//
+
 
 ---
 
 ## How does it work?
-![](recommendations-service/docs/recom.jpg)
+![Steps](https://raw.githubusercontent.com/VSU-CS-MCS/recommendations-service/docs/readme2.png)
